@@ -61,7 +61,7 @@
 
       <!-- Claims needed for local accounts. -->
       <ClaimType Id="signInName">
-        <DisplayName>Sign in name</DisplayName>
+        <DisplayName>_Sign in name</DisplayName>
         <DataType>string</DataType>
         <UserHelpText/>
         <UserInputType>TextBox</UserInputType>
